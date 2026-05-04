@@ -1,0 +1,2 @@
+Drop your CV here as `forbes-cv.pdf` so the "Download CV" button on cv.html works.
+You can delete this placeholder file once you've added the PDF.
